@@ -1,3 +1,3 @@
 #progate.github.io
 
-#learning  web development using htmll and css
+#learning  web development using html and css (1st project using github)
